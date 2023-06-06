@@ -41,15 +41,15 @@ For your convenience, Arduino C language and graphical programming are provided,
 
 ### **2. Features**
 
-**1. Easy wiring:** The wiring of VCC and GND are removed
+**2.1 Easy wiring:** The wiring of VCC and GND are removed
 
-**2. Multiple functions:** Nano or ESP32 development board are available as the control board and 15 sensors are integrated. When the external power supply is connected, the DIP switch can be used to control the VCC voltage to 3.3V or 5V.
+**2.2 Multiple functions:** Nano or ESP32 development board are available as the control board and 15 sensors are integrated. When the external power supply is connected, the DIP switch can be used to control the VCC voltage to 3.3V or 5V.
 
-**3. Simple structure:** Use 6mm dual-pass copper pillars to connect the acrylic board.
+**2.3 Simple structure:** Use 6mm dual-pass copper pillars to connect the acrylic board.
 
-**4. High expansibility:** VCC and GNG pins are provided
+**2.4 High expansibility:** VCC and GNG pins are provided
 
-**5.  Programming learning:** Arduino C language and graphical programming are available.
+**2.5  Programming learning:** Arduino C language and graphical programming are available.
 
 
 

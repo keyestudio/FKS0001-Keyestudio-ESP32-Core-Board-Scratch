@@ -1,5 +1,4 @@
-# Project
-
+# **Project**
 
 ## **Project 1: LED Blinking**
 
@@ -363,7 +362,7 @@ The forever module is used to control RGB LEDs, which will cycle from 0-5 to gra
 
 ![image-20230419164930530](./media/image-20230419164930530.png)
 
-**Complete Code**
+**Complete Code:**
 
 ![](./media/5-2-1681893901460-17.png)
 
