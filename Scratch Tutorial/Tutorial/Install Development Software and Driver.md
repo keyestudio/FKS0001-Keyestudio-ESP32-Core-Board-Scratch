@@ -1,21 +1,45 @@
-# **Install Libraries**
+# **Install Development Board and Driver**
 
-### **1 What are Libraries?**
+### **Windows System**
 
-A library is a collection of codes, and it facilitates the connection of sensors, displays and modules. 
+Connect the control board to computer via USB. For Windows 10, the driver will be automatically installed. For Windows 7 and others, you should install it manually. 
 
-For instance, the LiquidCrystal library simplifies the communication with LCD display. Moreover, hundreds of libraries are available on Internet. In the reference, in-built and manually-added libraries are listed. 
+USB-to-serial port chip of the board is CP2102, and we need to install it.
 
-### **2 How to Install the Libraries?**
+Download Link of CP2102 Driver：[https://fs.keyestudio.com/CP2102-WIN](https://fs.keyestudio.com/CP2102-WIN)
 
-Tap **Sketch>Include Library>Add .Zip Library...**
+Then ![image-20230426100746100](./media/image-20230426100746100.png)will appear and unzip it.    ![image-20230426100852988](./media/image-20230426100852988.png)--![image-20230426101012182](./media/image-20230426101012182.png)
 
 
-![new(24)](./media/new(24)-1682391521591-53.png)
 
-Select the zipped files you need and click ok to add a library. If success, the message bar will show “**Library installed**”.
+If the control board is connected to your computer for the first time, please click Computer--Attributes--Device Manager:
 
-![](./media/new(25)-1682391534464-55-1682476920764-4.png)
+![](./media/image-20230426095732736.png)
 
-For more tutorials, please visit our official website：[https://www.keyestudio.com/](https://www.keyestudio.com/)
+If the CP2102 driver is not installed successfully, there is a yellow exclamation mark, tap ![img](./media/wps1.jpg)and “**Update drive...**” to update the driver.
+
+![](./media/image-20230426095802319.png)
+
+Click “**Browse my computer for drivers**”
+
+![](./media/image-20230426100348141.png)
+
+Enter“**Browse...**” to find the folder![image-20230426101012182](./media/image-20230426101012182.png), and tap “**Next**”.
+
+![](./media/1212123.png)
+
+Close the page after installation, and then the serial port number appears.
+
+
+
+![](./media/image-20230426101731680.png)
+
+Finally, click Computer--Attributes--Device Manager:
+
+![](./media/image-20230426101750499.png)
+
+### **MAC System**
+
+Link: [https://wiki.keyestudio.com/How_to_Install_the_Driver_of_CP2102_on_MAC_System](https://wiki.keyestudio.com/How_to_Install_the_Driver_of_CP2102_on_MAC_System)
+
 
