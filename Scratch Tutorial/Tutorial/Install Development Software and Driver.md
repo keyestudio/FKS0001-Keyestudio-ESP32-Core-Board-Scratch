@@ -1,4 +1,4 @@
-# **Install Development Board and Driver**
+# **Install Driver**
 
 ### **Windows System**
 
