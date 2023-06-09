@@ -56,7 +56,7 @@
 
 Click![img](./media/wps3.jpg)to switch to different languages![image-20230425132314706](./media/image-20230425132314706.png).
 
-### 3. Install the Development Board and Driver
+### 3. Install the Driver
 
 **Note: If the driver is not installed, as shown below:**
 
