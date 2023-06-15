@@ -2,7 +2,7 @@
 
 ###  **1. Description**
 
-LED blinking is a simple project designed for starters. You only need to install an LED on Arduino board and upload the code on Arduino IDE. This project reinforces the learning of Arduino conceptual framework and using methods for starters. 
+LED blinking is a simple project designed for starters. You only need to install an LED on Arduino board and upload the code on Scratch. This project reinforces the learning of Arduino conceptual framework and using methods for starters. 
 
 ###  **2. Working Principle**
 
